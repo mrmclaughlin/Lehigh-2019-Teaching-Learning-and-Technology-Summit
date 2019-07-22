@@ -1,4 +1,4 @@
-# Lehigh-2019-Teaching-Learning-and-Technology-Summit
+# Lehigh 2019 Teaching Learning and Technology Summit
 
 
 Maker Math PETE&C 2016 https://www.youtube.com/watch?v=7KNmRilHTpc 
